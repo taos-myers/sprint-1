@@ -1,0 +1,17 @@
+I. 
+
+The command line is a function that serves the user direct access to communicate with the brain-- or the real power--of the computer. 
+
+II.
+
+cd:  change directory
+cp:  copy file
+exit:  close termial session
+grep: locates files
+ls:  list files
+mkdir:  make new directory
+mv:  move file or directory
+rm:  removes files 
+touch:  creates documents
+pushd:  Push directory
+pwd:  print working directory
